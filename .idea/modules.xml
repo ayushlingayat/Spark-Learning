@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Sumit Sir Pyspark.iml" filepath="$PROJECT_DIR$/.idea/Sumit Sir Pyspark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Trendy_tech_Learning_Spark/.idea/Trendy_tech_Learning_Spark.iml" filepath="$PROJECT_DIR$/../../Trendy_tech_Learning_Spark/.idea/Trendy_tech_Learning_Spark.iml" />
     </modules>
   </component>
 </project>
